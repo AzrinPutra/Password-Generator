@@ -48,6 +48,8 @@ p {
 }
 
 .password-btn {
+    font-family: 'inter';
+    font-weight: 400;
     color: #FFFFFF;
     background: #10B981;
     border: 0px;
@@ -56,6 +58,8 @@ p {
 }
 
 .password-btn:hover {
+    font-family: 'inter';
+    font-weight: 400;
     color: #10B981;
     background: #FFFFFF;
 }
