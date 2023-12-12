@@ -60,7 +60,7 @@ p {
     background: #FFFFFF;
 }
 
-#passwords {
+.passwords {
     font-family: 'inter';
     font-weight: 400;
     color: #55F991;
